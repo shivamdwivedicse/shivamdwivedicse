@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivam Dwivedi</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | ML & Deep Learning Enthusiast</h3>
 
-<!--
-**shivamdwivedicse/shivamdwivedicse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Currently learning **Data Analytics & Data Science**
+- 🐍 Strong in **Python, NumPy, Pandas**
+- 📈 Skilled in **EDA (Exploratory Data Analysis)**
+- 📉 Data Visualization using **Matplotlib & Seaborn**
+- 🤖 Working with **Machine Learning Algorithms**
+- 🧠 Currently learning **Deep Learning**
+- 🔥 Building real-world ML projects
+- 💻 Sometimes I do "vibe coding" for fun 😄
+
+---
+
+## 🛠️ Tech Stack
+
+### 📌 Programming & Data Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-ML-blue?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-ML-green?style=for-the-badge)
+
+### 🧠 Deep Learning (Learning Phase)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📌 Current Focus
+
+✔ Improving Knowledge and Skills.
+✔ Learning Deep Learning architectures.
+✔ Building strong Data Science portfolio.  
+✔ Preparing for Data Analyst / Data Scientist roles  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-dwivedi-27661a395
+- 📧 Email: shivamdwivedicse20919@gmail.com
