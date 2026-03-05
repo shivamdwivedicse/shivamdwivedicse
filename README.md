@@ -47,7 +47,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivamdwivedicseE&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shivamdwivedicse&theme=tokyonight)
 
 ---
 
