@@ -88,7 +88,7 @@ Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
-
+![Snake animation](https://github.com/shivamdwivedicse/shivamdwivedicse/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 🎯 Current Focus
