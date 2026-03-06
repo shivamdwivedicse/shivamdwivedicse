@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 - 📊 Currently learning **Data Analytics & Data Science**
-- 🐍 Strong in **Python, NumPy, Pandas**
+- 🐍 Skilled in **Python, NumPy, Pandas**
 - 📈 Skilled in **EDA (Exploratory Data Analysis)**
 - 📉 Data Visualization using **Matplotlib & Seaborn**
 - 🤖 Working with **Machine Learning Algorithms**
