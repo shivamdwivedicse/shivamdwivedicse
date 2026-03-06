@@ -56,7 +56,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/shivamdwivedicse/shivamdwivedicse/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/shivamdwivedicse/shivamdwivedicse/output/github-contribution-grid-snake.svg)
 
 ---
 
