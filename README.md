@@ -5,14 +5,14 @@
 
 ## 🧠 About Me
 
-* 📊 Currently learning **Data Analytics & Data Science**
-* 🐍 Skilled in **Python, NumPy, Pandas**
-* 📈 Skilled in **EDA (Exploratory Data Analysis)**
-* 📉 Data Visualization using **Matplotlib & Seaborn**
-* 🤖 Working with **Machine Learning Algorithms**
-* 🧠 Currently learning **Deep Learning**
-* 🔥 Building real-world ML projects
-* 💻 Sometimes I do "vibe coding" for fun 😄
+* 📊 Currently learning **Data Analytics & Data Science.**
+* 🐍 Skilled in **Python, NumPy, Pandas.**
+* 📈 Skilled in **EDA (Exploratory Data Analysis).**
+* 📉 Data Visualization using **Matplotlib & Seaborn.**
+* 🤖 Working with **Machine Learning Algorithms.**
+* 🧠 Currently learning **Deep Learning.**
+* 🔥 Building real-world ML projects.
+* 💻 Sometimes I do "vibe coding" for fun 😄.
 
 ---
 
