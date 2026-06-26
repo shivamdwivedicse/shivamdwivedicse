@@ -71,5 +71,5 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/shivam-dwivedi-27661a395
+* 💼 LinkedIn: https://www.linkedin.com/in/shivam-dwivedi-27661a395/?skipRedirect=true
 * 📧 Email: [shivamdwivedicse20919@gmail.com](mailto:shivamdwivedicse20919@gmail.com)
